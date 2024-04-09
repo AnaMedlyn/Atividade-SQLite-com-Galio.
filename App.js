@@ -162,22 +162,22 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     borderWidth: 1,
     borderColor: '#ccc',
-    borderRadius: 8, // Arredondamento da caixa
+    borderRadius: 8, 
     paddingHorizontal: 10,
     paddingVertical: 8,
   },
   botao: {
     alignSelf: 'center',
     marginBottom: 16,
-    backgroundColor: 'gray', // Botão em cinza
+    backgroundColor: 'gray', 
     padding: 10,
     borderRadius: 5,
   },
   textoBotao: {
-    color: 'black', // Texto do botão em preto
+    color: 'black', 
     fontWeight: 'bold',
   },
   pendenciaTexto: {
-    color: 'red', // Texto pendente em vermelho
+    color: 'red', 
   },
 });
